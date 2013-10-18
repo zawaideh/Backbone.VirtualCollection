@@ -103,6 +103,14 @@
     return this.collection.get(this.index[index]);
   };
 
+    vc.add = function (args) {
+      return this.collection.add(args);
+    };
+
+    vc.remove = function (args) {
+      return this.collection.remove(args);
+    };
+
   /**
    * Returns the index of the model in the virtual collection
    * @param  {Model} model
