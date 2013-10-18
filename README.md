@@ -1,8 +1,6 @@
 ## Backbone.VirtualCollection
 
-<a href="http://teambox.com"><img alt="Built at Teambox" src="http://i.imgur.com/hqNPlHe.png"/></a>
-
-![Build Status](https://api.travis-ci.org/p3drosola/Backbone.VirtualCollection.png)
+![Build Status](https://api.travis-ci.org/zawaideh/Backbone.VirtualCollection.png)
 
 
 Backbone.VirtualCollection allows you use Backbone.Marionette CollectionViews and CompositeViews on a subset of
